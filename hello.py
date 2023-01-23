@@ -1,0 +1,1 @@
+print("hellow world my name is deepak jangid hellow world")
